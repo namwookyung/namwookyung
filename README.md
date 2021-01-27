@@ -3,6 +3,21 @@
 🌱 Portfolio
  > <http://namwookyung.github.io>
 
+🌱 Project
+
+<table>
+ <tr>
+   <td>프로젝트 명</td>
+   <td>기간</td>
+   <td>설명</td>
+ </tr>
+ <tr>
+  <td>PIT-A-PET</td>
+  <td>2020.12.21~2021.01.22</td>
+  <td>반려동물용품 쇼핑몰</td>
+ </tr>
+</table>
+ 
 <!--
 **namwookyung/namwookyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
