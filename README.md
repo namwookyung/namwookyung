@@ -20,7 +20,7 @@
   <td>2020.12.21~2021.01.22</td>
   <td>2명</td>
   <td>반려동물용품 쇼핑몰</td>
-  <td><http://embed.swq.co.kr/pitAPet></td>
+  <td> <http://embed.swq.co.kr/pitAPet> </td>
  </tr>
 </table>
  
