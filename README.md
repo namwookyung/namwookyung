@@ -6,7 +6,7 @@
 🌱 Project
 
 <table>
- <tr>
+ <tr style="text-align:center;">
   <td>번호</td>
   <td>프로젝트 명</td>
   <td>기간</td>
@@ -15,7 +15,7 @@
   <td>프로젝트 주소</td>
   <td>향후 추가 기능</td>
  </tr>
- <tr>
+ <tr style="text-align:center;">
   <td>1</td>
   <td>PIT-A-PET</td>
   <td>2020.12.21
