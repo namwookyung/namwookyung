@@ -5,8 +5,8 @@
 
 🌱 Project
 
-<table>
- <tr style="text-align:center;">
+<table style="text-align:center;">
+ <tr>
   <td>번호</td>
   <td>프로젝트 명</td>
   <td>기간</td>
@@ -20,7 +20,7 @@
   <td>2020.12.21~2021.01.22</td>
   <td>2명</td>
   <td>반려동물용품 쇼핑몰</td>
-  <td> <http://embed.swq.co.kr/pitAPet> </td>
+  <td><http://embed.swq.co.kr/pitAPet></td>
  </tr>
 </table>
  
