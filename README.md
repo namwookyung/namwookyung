@@ -1,3 +1,9 @@
+<style>
+ table {
+  text-align:center;
+ }
+</style>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamwookyung&count_bg=%23FFC000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 🌱 Portfolio
@@ -6,7 +12,7 @@
 🌱 Project
 
 <table>
- <tr style="text-align:center;">
+ <tr>
   <td>번호</td>
   <td>프로젝트 명</td>
   <td>기간</td>
@@ -14,7 +20,7 @@
   <td>설명</td>
   <td>프로젝트 주소</td>
  </tr>
- <tr style="text-align:center;">
+ <tr>
   <td>1</td>
   <td>PIT-A-PET</td>
   <td>2020.12.21~2021.01.22</td>
