@@ -7,15 +7,15 @@
 
 <table>
  <tr>
-  <td style="text-align:center;">번호</td>
-  <td style="text-align:center;">프로젝트 명</td>
-  <td style="text-align:center;">기간</td>
-  <td style="text-align:center;">인원</td>
-  <td style="text-align:center;">설명</td>
-  <td style="text-align:center;">프로젝트 주소</td>
-  <td style="text-align:center;">향후 추가 기능</td>
+  <td>번호</td>
+  <td>프로젝트 명</td>
+  <td>기간</td>
+  <td>인원</td>
+  <td>설명</td>
+  <td>프로젝트 주소</td>
+  <td>향후 추가 기능</td>
  </tr>
- <tr style="text-align:center;">
+ <tr>
   <td>1</td>
   <td>PIT-A-PET</td>
   <td>2020.12.21
@@ -27,6 +27,7 @@
   <td>장바구니 상품 결제 기능</td>
  </tr>
 </table>
+{: .text-center }
  
 <!--
 **namwookyung/namwookyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
