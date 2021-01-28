@@ -7,13 +7,13 @@
 
 <table>
  <tr>
-  <td>번호</td>
-  <td>프로젝트</td>
+  <td text-center>번호</td>
+  <td text-center>프로젝트</td>
  </tr>
  <tr>
   <td>1</td>
   <td>
-   프로젝트 명 : PIT-A-PET<br>
+   프로젝트명 : PIT-A-PET<br>
    기간 : 2020.12.21  ~2021.01.22<br>
    인원 : 2명<br>
    설명 : 반려동물 용품 쇼핑몰<br>
