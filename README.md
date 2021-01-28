@@ -8,10 +8,10 @@
 <table>
  <tr>
   <td text-center>번호</td>
-  <td text-center>프로젝트</td>
+  <td>프로젝트</td>
  </tr>
  <tr>
-  <td>1</td>
+  <td text-center>1</td>
   <td>
    프로젝트명 : PIT-A-PET<br>
    기간 : 2020.12.21  ~2021.01.22<br>
