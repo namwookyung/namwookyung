@@ -13,6 +13,7 @@
   <td>인원</td>
   <td>설명</td>
   <td>프로젝트 주소</td>
+  <td>향후 추가 기능</td>
  </tr>
  <tr>
   <td>1</td>
@@ -21,6 +22,7 @@
   <td>2명</td>
   <td>반려동물용품 쇼핑몰</td>
   <td>http://embed.swq.co.kr/pitAPet</td>
+  <td>장바구니에 담긴 상품 결제 기능</td>
  </tr>
 </table>
  
