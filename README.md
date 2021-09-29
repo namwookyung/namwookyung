@@ -8,18 +8,25 @@
 <table>
  <tr>
   <td>번호</td>
-  <td>프로젝트</td>
+  <td>프로젝트명</td>
+  <td>제작 기간</td>
+  <td>제작 인원</td>
+  <td>설명</td>
+  <td>프로젝트 주소</td>
+  <td>향후 추가 기능</td>
  </tr>
  <tr>
   <td>1</td>
-  <td>
-   - 프로젝트명 : PIT-A-PET<br>
-   - 기간 : 2020.12.21  ~2021.01.22<br>
-   - 인원 : 2명<br>
-   - 설명 : 반려동물 용품 쇼핑몰<br>
-   - 프로젝트 주소 : http://embed.swq.co.kr/pitAPet<br>
-   - 향후 추가 기능 : 장바구니 상품 결제 기능
-  </td>
+  <td>PIT-A-PET</td>
+  <td>2020.12.21  ~2021.01.22</td>
+  <td>2</td>
+  <td>반려동물 용품 쇼핑몰</td>
+  <td>http://embed.swq.co.kr/pitAPet</td>
+  <td>장바구니 상품 결제 기능</td>
+ </tr>
+ <tr>
+  <td>2</td>
+  <td colspan="6">기획하는 중</td>
  </tr>
 </table>
 
