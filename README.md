@@ -5,8 +5,8 @@
 
 🌱 Project
 
-<table style="text-align:center;">
- <tr>
+<table>
+ <tr style="text-align:center;">
   <td>번호</td>
   <td>프로젝트명</td>
   <td>제작 기간</td>
@@ -15,7 +15,7 @@
   <td>프로젝트 주소</td>
   <td>향후 추가 기능</td>
  </tr>
- <tr>
+ <tr style="text-align:center;">
   <td>1</td>
   <td>PIT-A-PET</td>
   <td>2020.12.21  ~2021.01.22</td>
@@ -24,7 +24,7 @@
   <td>http://embed.swq.co.kr/pitAPet</td>
   <td>장바구니 상품 결제 기능</td>
  </tr>
- <tr>
+ <tr style="text-align:center;">
   <td>2</td>
   <td colspan="6">기획하는 중</td>
  </tr>
