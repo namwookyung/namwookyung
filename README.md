@@ -26,7 +26,7 @@
  </tr>
  <tr>
   <td>2</td>
-  <td colspan="6">기획하는 중</td>
+  <td colspan="6">커뮤니티 사이트 기획중</td>
  </tr>
 </table>
 
