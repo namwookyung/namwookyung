@@ -5,7 +5,7 @@
 
 🌱 Project
 
-<table>
+<table style="text-align:center;">
  <tr>
   <td>번호</td>
   <td>프로젝트명</td>
