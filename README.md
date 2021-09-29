@@ -5,30 +5,10 @@
 
 🌱 Project
 
-<table>
- <tr>
-  <td>번호</td>
-  <td>프로젝트명</td>
-  <td>제작 기간</td>
-  <td>제작 인원 수</td>
-  <td>설명</td>
-  <td>웹사이트 주소</td>
-  <td>향후 추가 기능</td>
- </tr>
- <tr>
-  <td>1</td>
-  <td>PIT-A-PET</td>
-  <td>2020.12.21  ~2021.01.22</td>
-  <td>2</td>
-  <td>반려동물 용품 쇼핑몰</td>
-  <td>http://embed.swq.co.kr/pitAPet</td>
-  <td>장바구니 상품 결제 기능</td>
- </tr>
- <tr>
-  <td>2</td>
-  <td colspan="6">커뮤니티 사이트 기획중</td>
- </tr>
-</table>
+| 번호| 프로젝트명 | 제작 기간 | 제작 인원 수| 설명 | 웹사이트 주소| 향후 추가 기능|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | PIT-A-PET | 2020.12.21~2021.01.22 | 2 | 반려동물 용품 쇼핑몰 | http://embed.swq.co.kr/pitAPet | 장바구니 상품 결제 기능 |
+| 2 | 커뮤니티 사이트 기획중 |
 
 <!--
 **namwookyung/namwookyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
