@@ -8,7 +8,7 @@
 | 번호 | 타이틀 | 제작 기간 | 인원 | 분류 | 웹사이트 주소 | 향후 추가 기능 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | PIT-A-PET | 2020.12.21 ~ 2021.01.22 | 2 | 반려동물 용품 쇼핑몰 | http://embed.swq.co.kr/pitAPet | 장바구니 상품 결제 기능 |
-| 2 | WEB BOARD | 2023.05.14 ~ 2023.05.24 | 1 | 간단한 게시판 사이트 | - | - |
+| 2 | WebBoard | 2023.05.14 ~ 2023.05.24 | 1 | 간단한 게시판 사이트 | - | - |
 
 <!--
 **namwookyung/namwookyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
